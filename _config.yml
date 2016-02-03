@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: My awesome site
 locale: en_US
-description: Describe your website here.
+description: Why not make my hobby projects accessible to the world.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://timkleinloog.github.io
 
 # Jekyll configuration
 
@@ -48,22 +48,22 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Tim Kleinloog
   avatar: bio-photo.jpg
-  email: you@email.com
+  email:
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
+  github: TimKleinloog
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: timkleinloog
   instagram: #username
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
-    plus: #username
+    plus: timkleinloog
     analytics:
     verify:
     ad-client:
