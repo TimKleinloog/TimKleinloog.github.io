@@ -12,5 +12,20 @@
 - title: Theme Setup
   url: /theme-setup/
 
+- title: Data science
+  url: /data_science
+
+- title: Sports
+  url: /sports/
+
+- title: Diving
+  url: /diving/
+
+- title: Travelling
+  url: /travelling/
+
+- title: Resources
+  url: /resources/
+
 - title: Search
   url: /search/

@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: My awesome site
+title: tim.kleinloog.io
 locale: en_US
-description: Why not make my hobby projects accessible to the world.
+description: This is the homepage and blog of Tim Kleinloog, a stating Marketing Intelligence consultant with a passion for data science, sports and travelling. 
 logo: site-logo.png
 search: true
 url: http://timkleinloog.github.io
@@ -11,6 +11,7 @@ url: http://timkleinloog.github.io
 
 permalink:   /:categories/:title/
 markdown:    kramdown
+mathjax:     true
 highlighter: rouge
 sass:
   sass_dir: _sass
@@ -63,7 +64,7 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    plus: 
+    plus:
     analytics:
     verify:
     ad-client:
