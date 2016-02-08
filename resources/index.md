@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Helpful (Data Science) resources 
+title: Helpful (Data Science) resources
 image:
-  feature: wg_blurred_backgrounds_18.jpg
-  credit: WeGraphics
-  creditlink: hhttp://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: voices-of-finance-image-1.jpg
+  credit: Voices of Finance
+  creditlink: http://pers.ntr.nl//programma/voices_of_finance/#sthash.nWDnIrAI.dpbs
 ---
 
 [Vincent Warmerdam](http://koaning.io)
