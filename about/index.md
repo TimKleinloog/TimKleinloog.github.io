@@ -2,7 +2,7 @@
 layout: page
 title: About me
 image:
-  feature: custom-theme-image-2.jpeg
+  feature: custom-theme-image-2.jpg
   credit: Rapha
   creditlink: http://www.rapha.cc
 ---
