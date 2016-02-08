@@ -12,6 +12,12 @@
 #- title: Theme Setup
 #  url: /theme-setup/
 
+- title: About
+  url: /about/
+
+- title: Resume
+  url: /resume/
+
 - title: Data science
   url: /data-science
 
