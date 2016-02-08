@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About me
 image:
   feature: custom-theme-image-2.jpeg
   credit: Rapha
@@ -14,4 +14,4 @@ I made this website/blog in order to capture and share interesting events and pr
 As a student Industrial Engineering, I developed a keen interest in Data Science
 in oder to tackle industrial problems with data. Since two years I am exploring the tools used in data science today.
 
-To get updates on the last developments in my staring career you can look on my [LinkedIn]{http://www.linkedin.com/in/timkleinloog}.
+To get updates on the last developments in my staring career you can look on my [LinkedIn](http://www.linkedin.com/in/timkleinloog).
