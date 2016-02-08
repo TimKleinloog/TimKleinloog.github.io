@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-tags: [about, Tim, author]
+title: Resume
+tags: [Resume, Tim, Kleinloog]
 modified: 2016-02-08T17:07:00.0000-04:00
 comments: true
 image:
