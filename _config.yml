@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: tim.kleinloog.io
+title: TimKleinloog.github.io
 locale: en_US
-description: This is the homepage and blog of Tim Kleinloog, a stating Marketing Intelligence consultant with a passion for data science, sports and travelling. 
+description: This is the homepage and blog of Tim Kleinloog
 logo: site-logo.png
 search: true
 url: http://timkleinloog.github.io
