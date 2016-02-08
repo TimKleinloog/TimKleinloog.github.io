@@ -13,7 +13,7 @@
   url: /theme-setup/
 
 - title: Data science
-  url: /data_science
+  url: /data-science
 
 - title: Sports
   url: /sports/
@@ -21,7 +21,7 @@
 - title: Travelling
   url: /travelling/
 
-- title: Resources
+- title: Data Science resources
   url: /resources/
 
 - title: Search
