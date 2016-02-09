@@ -1,12 +1,17 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
-search_omit: true
+title: Sporting career
+tags: [Resume, Tim, Kleinloog]
+modified: 2016-02-09T20:19:00
+comments: false
+image:
+  feature: custom-theme-image-1.jpg
+  credit: Rapha
+  creditlink: http://rapha.cc
 ---
 
-<ul class="post-list">
-{% for post in site.categories.sports %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
+## Video
+
+{% highlight html %}
+<iframe width="560" height="315" src="http://www.youtube.com/embed/ruudOU06c8s" frameborder="0"> </iframe>
+{% endhighlight %}
