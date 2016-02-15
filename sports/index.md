@@ -4,9 +4,9 @@ title: Sports career
 modified: 2016-02-09T20:19:00
 comments: false
 image:
-  feature: custom-theme-image-1.jpg
-  credit: Rapha
-  creditlink: http://rapha.cc
+  feature: sports-banner.jpg
+  credit: Roy
+  creditlink:
 ---
 
 ## Videos
