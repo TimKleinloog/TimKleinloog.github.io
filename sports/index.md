@@ -4,7 +4,7 @@ title: Sports career
 modified: 2016-02-09T20:19:00
 comments: false
 image:
-  feature: sports-banner.jpg
+  feature: sport-banner.jpg
   credit: Roy
   creditlink:
 ---
