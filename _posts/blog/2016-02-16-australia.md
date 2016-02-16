@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "International semester Australia"
-excerpt: "Post to give an impression about my traveling in Australia during my international semester in Brisbane"
 modified: 2016-02-16T14:57
 categories: blog
-excerpt: ""
+excerpt:
 tags: []
 image:
   feature:
