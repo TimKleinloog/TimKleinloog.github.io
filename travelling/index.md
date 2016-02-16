@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: Travelling
+excerpt: "An archive of journeys sorted by date."
 search_omit: true
 image:
   feature: custom-theme-image-4.jpg
