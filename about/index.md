@@ -5,7 +5,7 @@ tags:
 modified: 2016-02-16T11:18
 comments:
 image:
-  feature: custom-theme-image-2.jpg
+  feature: custom-theme-image-5.jpg
   credit: Rapha
   creditlink: http://rapha.cc
 ---
