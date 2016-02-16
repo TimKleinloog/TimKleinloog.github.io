@@ -5,7 +5,7 @@ excerpt: "Link post to an explanation by Robert Chang, Data Scientist at Twitter
 categories: articles
 tags:
 link: https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.d7v4kt4ux
-date: 2016-02-16T16:31
+date: 2016-02-16T15:31
 share: true
 ---
 
