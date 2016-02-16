@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Doing data science explained"
-excerpt: "link post to a blog post by Robert Chang, Data Scientist at Twitter"
+excerpt: "Link post to a blog post by Robert Chang, Data Scientist at Twitter"
 categories: articles
 tags: [link-post]
 link: https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.d7v4kt4ux
