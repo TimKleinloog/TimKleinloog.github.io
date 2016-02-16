@@ -3,7 +3,7 @@ layout: post
 title: "International semester Australia"
 modified: 2016-02-16T14:57
 categories: blog
-excerpt: "A photo impression of my traveling in Australia during my international semester in Brisbane"
+excerpt: "A photo impression of my traveling in Australia during my international semester in Brisbane."
 tags: []
 image:
   feature:
